@@ -1,6 +1,6 @@
 ## WebApp
 
-    Web App mit Vuejs Frontend und Laravel Backend
+    Web App mit Vuejs Frontend, Laravel Backend MySql als Datenbanksystem. Gestartet werden kann die App mit php artisan serve.
 
 ## License
 
